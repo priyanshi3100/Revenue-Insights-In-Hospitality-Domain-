@@ -1,8 +1,6 @@
-Sure, let's convert the provided data and DAX measures into a readable format suitable for a GitHub README file.
 
----
 
-# AtliQ Grands Data Intelligence Project
+# Revenue Insights | Hospitality Domain
 
 ## Overview
 
@@ -11,11 +9,13 @@ AtliQ Grands, a leading hotel chain in India, has been facing declining market s
 ## Repository Contents
 
 - **Data Folder:** Contains the following CSV files:
-  - `dim_date.csv`
-  - `dim_hotels.csv`
-  - `dim_rooms.csv`
-  - `fact_aggregated_bookings.csv`
-  - `fact_bookings.csv`
+  - `dim_date.csv` *https://github.com/priyanshi3100/Revenue-Insights-In-Hospitality-Domain-/blob/main/dim_date.csv*
+  - `dim_hotels.csv`*https://github.com/priyanshi3100/Revenue-Insights-In-Hospitality-Domain-/blob/main/dim_hotels.csv*
+  - `dim_rooms.csv` *https://github.com/priyanshi3100/Revenue-Insights-In-Hospitality-Domain-/blob/main/dim_rooms.csv*
+  - `fact_aggregated_bookings.csv` *https://github.com/priyanshi3100/Revenue-Insights-In-Hospitality-Domain-/blob/main/fact_aggregated_bookings.csv*
+  - `fact_bookings.csv`  *https://raw.githubusercontent.com/priyanshi3100/Revenue-Insights-In-Hospitality-Domain-/main/fact_bookings.csv* #it's might not get open due to large data set kindly download then look on it ....
+ 
+  - - 'for solution final dashboard' *https://github.com/priyanshi3100/Revenue-Insights-In-Hospitality-Domain-/blob/main/Hospitality%20Project.pbix*
 
 
 ## Data Files and Column Descriptions
